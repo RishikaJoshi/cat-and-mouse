@@ -47,7 +47,7 @@ function draw() {
         cat.x = 300;
 
         mouse.addAnimation("mouse_collide",mouseImg3);
-        moose.changeAnimation("mouse_collide");
+        mouse.changeAnimation("mouse_collide");
         mouse.x = 300;
         
 
